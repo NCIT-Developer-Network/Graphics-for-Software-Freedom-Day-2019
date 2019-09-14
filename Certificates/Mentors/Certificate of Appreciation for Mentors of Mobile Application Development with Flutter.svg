@@ -23,7 +23,7 @@
    inkscape:export-ydpi="98.274063"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath20"><path
@@ -53,7 +53,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5905802"
-     inkscape:cx="569.9004"
+     inkscape:cx="240.56325"
      inkscape:cy="759.15977"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
@@ -83,6 +83,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,480.649,60.2275)"
    style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Montserrat Light';-inkscape-font-specification:Montserrat-Light;writing-mode:lr-tb;fill:#4c4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -91,6 +92,7 @@
      y="10.947964"
      sodipodi:role="line"
      id="tspan104" /></text>
+
 
 
 
@@ -109,6 +111,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,314.6533,196.4189)"
    style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Montserrat Light';-inkscape-font-specification:Montserrat-Light;writing-mode:lr-tb;fill:#4c4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -117,6 +120,7 @@
      id="tspan114"
      x="0"
      y="10.947964" /></text>
+
 
 
 
@@ -135,6 +139,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,386.1559,336.4429)"
    style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Montserrat Light';-inkscape-font-specification:Montserrat-Light;writing-mode:lr-tb;fill:#4c4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -143,6 +148,7 @@
      y="10.947964"
      sodipodi:role="line"
      id="tspan130" /></text>
+
 
 
 
@@ -157,6 +163,7 @@
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan1544" /></text>
+
 
 
 
@@ -223,6 +230,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -237,6 +245,7 @@
      x="707.59027"
      y="-570.24408"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">Presented to</tspan></text>
+
 
 
 
@@ -261,6 +270,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -275,6 +285,7 @@
      x="716.26068"
      y="-409.67496"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">September 21, 2019 </tspan></text>
+
 
 
 
@@ -304,6 +315,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -318,6 +330,7 @@
      x="526.26233"
      y="-308.21762"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">Event Coordinator, SFD 2019</tspan></text>
+
 
 
 
@@ -342,6 +355,7 @@
 
 
 
+
 <text
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
    id="text120-3"
@@ -355,6 +369,7 @@
      id="tspan118-2"
      x="518.57324"
      y="-355.16077">_____________________________</tspan></text>
+
 
 
 
@@ -374,6 +389,7 @@
      x="477.70178"
      y="-449.67944"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">Mobile Application Development with Flutter</tspan></text>
+
 
 
 
@@ -399,6 +415,7 @@
      x="890.00079"
      sodipodi:role="line">Organized By</tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    inkscape:export-ydpi="98.274063"
@@ -414,6 +431,7 @@
      id="tspan868"
      sodipodi:role="line">Nepal Open Source Klub</tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    inkscape:export-ydpi="98.274063"
@@ -427,5 +445,6 @@
      id="tspan872"
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99999994">_____________________________</tspan></text>
+
 
 </g></svg>
