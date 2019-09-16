@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-85.361527"
-     inkscape:cy="565.80441"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="-1321.1297"
+     inkscape:cy="784.8529"
      inkscape:document-units="mm"
      inkscape:current-layer="g14"
      showgrid="false"
@@ -341,24 +341,7 @@
          inkscape:export-filename="C:\Users\Hp\OneDrive\Desktop\logos\flutter.png"
          inkscape:export-xdpi="98.274063"
          inkscape:export-ydpi="98.274063" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot3917"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.8419576,0,0,-0.36975552,1503.655,621.97979)"
-         inkscape:export-filename="C:\Users\Hp\OneDrive\Desktop\logos\flutter.png"
-         inkscape:export-xdpi="98.274063"
-         inkscape:export-ydpi="98.274063"><flowRegion
-           id="flowRegion3919"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-             id="rect3921"
-             width="742.85712"
-             height="300"
-             x="-1211.4286"
-             y="951.09113"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-           id="flowPara3923"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.00000023px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start">Mentors</flowPara></flowRoot>    </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
