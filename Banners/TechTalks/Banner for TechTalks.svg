@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1787"
-   inkscape:export-filename="C:\Users\Hp\OneDrive\Desktop\logos\techtalkbanner.png"
+   inkscape:export-filename="C:\Users\Hp\OneDrive\Desktop\Assets\Banners\TechTalks\Banner for TechTalks.png"
    inkscape:export-xdpi="98.274063"
    inkscape:export-ydpi="98.274063"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="-187.08078"
-     inkscape:cy="274.21246"
+     inkscape:zoom="0.35"
+     inkscape:cx="-624.11771"
+     inkscape:cy="686.86107"
      inkscape:document-units="mm"
      inkscape:current-layer="g14"
      showgrid="false"
@@ -62,6 +62,11 @@
        orientation="1,0"
        id="guide909"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="-68.15088,336.27332"
+       orientation="1,0"
+       id="guide911"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata1784">
@@ -71,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,10 +198,10 @@
         </g>
         <g
            id="g30"
-           transform="matrix(1.4352125,0,0,0.61377605,14.221841,71.498406)"
+           transform="matrix(1.4352125,0,0,0.61377605,7.5854098,71.498406)"
            style="fill:#f8d337;fill-opacity:1">
           <path
-             d="M 0,0 407.093,-142.109 H 0 C 0,-142.109 2.386,5.057 0,0"
+             d="M -6.9360078,0 400.157,-142.109 H -6.9360078 c 0,0 2.3859999,147.166 0,142.109"
              style="fill:#f8d337;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path32"
              inkscape:connector-curvature="0" />
@@ -508,7 +513,9 @@
              x="130.98688"
              y="562.10907" /></flowRegion><flowPara
            id="flowPara905"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Overview of Quantum Computing</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><flowSpan
+   style="text-anchor:middle;text-align:center"
+   id="flowSpan913">Overview of</flowSpan> Quantum Computing</flowPara></flowRoot>    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
